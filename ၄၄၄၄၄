@@ -78,6 +78,7 @@
   "leagues": [
   {
     "league_name": "UEFA Europa League",
+    "league_icon":"",
     "matches": [
       {
         "home_team": {
@@ -424,6 +425,7 @@
   },
   {
     "league_name": "1. HNL",
+    "league_icon":"",
     "matches": [
       {
         "home_team": {
@@ -444,6 +446,7 @@
   },
   {
     "league_name": "1. Lig",
+    "league_icon":"",
     "matches": [
       {
         "home_team": {
