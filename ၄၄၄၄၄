@@ -78,7 +78,7 @@
   "leagues": [
   {
     "league_name": "UEFA Europa League",
-    "league_icon":"",
+    "league_icon":"https://image-service.onefootball.com/transform?w=128&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/2797.png",
     "matches": [
       {
         "home_team": {
@@ -425,7 +425,7 @@
   },
   {
     "league_name": "1. HNL",
-    "league_icon":"",
+    "league_icon":"https://image-service.onefootball.com/transform?w=128&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/16.png",
     "matches": [
       {
         "home_team": {
@@ -446,7 +446,7 @@
   },
   {
     "league_name": "1. Lig",
-    "league_icon":"",
+    "league_icon":"https://image-service.onefootball.com/transform?w=128&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/1721.png",
     "matches": [
       {
         "home_team": {
